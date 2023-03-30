@@ -2,7 +2,9 @@
 
 ----
 
-### 目前改进点
-
-* 加入通道注意力机制SENet
-* 改变backbone（未确定）
+### improvement
+* Using SENet
+* Changing backbone（unconclucive), choose backbone which more esaier detect samll object
+----
+## Possesed data
+![image](https://github.com/Conorren/yolov5/blob/master/img/traffic_2002.jpg)
